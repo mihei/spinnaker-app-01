@@ -17,9 +17,7 @@
     "url": "https://github.com/mihei/spinnaker-app-01/issues"
   },
   "homepage": "https://github.com/mihei/spinnaker-app-01#readme",
-  "dependencies": {
-    "eslint": "^4.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^4.0.0",
     "eslint-config-airbnb-base": "^11.2.0",
